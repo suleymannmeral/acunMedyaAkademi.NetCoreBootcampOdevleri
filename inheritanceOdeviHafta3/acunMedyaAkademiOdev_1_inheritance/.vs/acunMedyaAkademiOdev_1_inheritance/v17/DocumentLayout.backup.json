@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiodev_1_inheritance\\acunmedyaakademiodev_1_inheritance\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85954FD5-7E2F-41F8-A766-0B9118574612}|acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance.csproj|solutionrelative:acunmedyaakademiodev_1_inheritance\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Toyota.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Toyota.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Toyota.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:25:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Audi.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Audi.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Audi.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:24:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Togg.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Togg.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Togg.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Togg.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Togg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:24:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Porsche.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:23:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:22:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Bmw.cs*",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Bmw.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:21:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Classes\\Car.cs*",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Classes\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:21:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiOdev_1_inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiOdev_1_inheritance\\acunMedyaAkademiOdev_1_inheritance\\Program.cs",
+              "RelativeToolTip": "acunMedyaAkademiOdev_1_inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:20:28.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
