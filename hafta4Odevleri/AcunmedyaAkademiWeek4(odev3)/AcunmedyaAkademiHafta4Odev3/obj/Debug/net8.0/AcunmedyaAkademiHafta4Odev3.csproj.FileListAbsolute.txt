@@ -1,0 +1,14 @@
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\bin\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.exe
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\bin\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.deps.json
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\bin\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.runtimeconfig.json
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\bin\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.dll
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\bin\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.pdb
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.AssemblyInfoInputs.cache
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.AssemblyInfo.cs
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.csproj.CoreCompileInputs.cache
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.dll
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\refint\AcunmedyaAkademiHafta4Odev3.dll
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.pdb
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\AcunmedyaAkademiHafta4Odev3.genruntimeconfig.cache
+C:\Users\suley\Documents\projects\AcunmedyaAkademiHafta4Odev3\AcunmedyaAkademiHafta4Odev3\obj\Debug\net8.0\ref\AcunmedyaAkademiHafta4Odev3.dll

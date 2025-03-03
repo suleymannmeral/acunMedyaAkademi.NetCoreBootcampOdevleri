@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AcunmedyaAkademiHafta4Odev3/1.0.0": {
+        "runtime": {
+          "AcunmedyaAkademiHafta4Odev3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcunmedyaAkademiHafta4Odev3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
