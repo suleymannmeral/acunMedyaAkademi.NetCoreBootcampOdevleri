@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\generalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\generalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademihafta4odev2\\acunmedyaakademihafta4odev2\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A55D0B-FFE8-4CA5-9FBA-9D2CBFD103EB}|AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2.csproj|solutionrelative:acunmedyaakademihafta4odev2\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Intern.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\Intern.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Intern.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\Intern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:53:16.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Programmer.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\Programmer.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Programmer.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:52:30.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralManager.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\GeneralManager.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\GeneralManager.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\GeneralManager.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\GeneralManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:51:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Manager.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\Manager.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Manager.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:50:39.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\IEmployee.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\IEmployee.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:49:38.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Program.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiHafta4Odev2\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\AcunMedyaAkademiHafta4Odev2\\AcunMedyaAkademiHafta4Odev2\\Program.cs",
+              "RelativeToolTip": "AcunMedyaAkademiHafta4Odev2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:49:21.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
