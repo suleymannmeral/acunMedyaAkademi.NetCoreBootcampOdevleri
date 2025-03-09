@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiabstractionodevi\\acunmedyaakademiabstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|solutionrelative:acunmedyaakademiabstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiabstractionodevi\\acunmedyaakademiabstractionodevi\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|solutionrelative:acunmedyaakademiabstractionodevi\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiabstractionodevi\\acunmedyaakademiabstractionodevi\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|solutionrelative:acunmedyaakademiabstractionodevi\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiabstractionodevi\\acunmedyaakademiabstractionodevi\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|solutionrelative:acunmedyaakademiabstractionodevi\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|c:\\users\\suley\\documents\\projects\\acunmedyaakademiabstractionodevi\\acunmedyaakademiabstractionodevi\\icarability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8302C7-FF7D-469B-A9FA-8934EFBE6529}|acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi.csproj|solutionrelative:acunmedyaakademiabstractionodevi\\icarability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarAbility.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\ICarAbility.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiAbstractionOdevi\\ICarAbility.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\ICarAbility.cs",
+              "RelativeToolTip": "acunMedyaAkademiAbstractionOdevi\\ICarAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:31:06.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Porsche.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiAbstractionOdevi\\Porsche.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Porsche.cs",
+              "RelativeToolTip": "acunMedyaAkademiAbstractionOdevi\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:28:26.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Mercedes.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiAbstractionOdevi\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Mercedes.cs",
+              "RelativeToolTip": "acunMedyaAkademiAbstractionOdevi\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:28:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Bmw.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiAbstractionOdevi\\Bmw.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Bmw.cs",
+              "RelativeToolTip": "acunMedyaAkademiAbstractionOdevi\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:27:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Program.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiAbstractionOdevi\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\Documents\\projects\\acunMedyaAkademiAbstractionOdevi\\acunMedyaAkademiAbstractionOdevi\\Program.cs",
+              "RelativeToolTip": "acunMedyaAkademiAbstractionOdevi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:24:46.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
