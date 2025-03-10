@@ -25,7 +25,7 @@ namespace hafta5Odev1
             else if (age >= 75 && age < 99)
                 return "Çok Yaşlısınız";
 
-            else if (age < 0 && age > 99)
+            else if (age < 0 || age > 99)
                 return "Ya hiç doğmadınız ya da çoktan öldünüz";
 
             else
