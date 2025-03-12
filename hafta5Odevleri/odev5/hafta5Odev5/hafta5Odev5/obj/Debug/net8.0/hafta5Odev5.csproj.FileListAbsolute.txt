@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\bin\Debug\net8.0\hafta5Odev5.exe
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\bin\Debug\net8.0\hafta5Odev5.deps.json
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\bin\Debug\net8.0\hafta5Odev5.runtimeconfig.json
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\bin\Debug\net8.0\hafta5Odev5.dll
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\bin\Debug\net8.0\hafta5Odev5.pdb
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.AssemblyInfo.cs
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.dll
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\refint\hafta5Odev5.dll
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.pdb
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\hafta5Odev5.genruntimeconfig.cache
+C:\Users\suley\source\repos\hafta5Odev5\hafta5Odev5\obj\Debug\net8.0\ref\hafta5Odev5.dll
