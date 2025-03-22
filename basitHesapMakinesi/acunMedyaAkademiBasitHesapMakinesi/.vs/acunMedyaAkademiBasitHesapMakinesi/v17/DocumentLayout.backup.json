@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiBasitHesapMakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D564F9E7-CC4B-4798-A547-D6CA36277EF7}|acunMedyaAkademiBasitHesapMakinesi\\acunMedyaAkademiBasitHesapMakinesi.csproj|c:\\users\\suley\\source\\repos\\acunmedyaakademibasithesapmakinesi\\acunmedyaakademibasithesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D564F9E7-CC4B-4798-A547-D6CA36277EF7}|acunMedyaAkademiBasitHesapMakinesi\\acunMedyaAkademiBasitHesapMakinesi.csproj|solutionrelative:acunmedyaakademibasithesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiBasitHesapMakinesi\\acunMedyaAkademiBasitHesapMakinesi\\Program.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiBasitHesapMakinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiBasitHesapMakinesi\\acunMedyaAkademiBasitHesapMakinesi\\Program.cs",
+              "RelativeToolTip": "acunMedyaAkademiBasitHesapMakinesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:03:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
