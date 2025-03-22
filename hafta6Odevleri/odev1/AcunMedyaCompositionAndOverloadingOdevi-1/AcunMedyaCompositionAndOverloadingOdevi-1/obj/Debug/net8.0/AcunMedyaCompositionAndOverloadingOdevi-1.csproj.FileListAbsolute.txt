@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\bin\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.exe
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\bin\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.deps.json
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\bin\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.runtimeconfig.json
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\bin\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.dll
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\bin\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.pdb
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.AssemblyInfo.cs
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.dll
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\refint\AcunMedyaCompositionAndOverloadingOdevi-1.dll
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.pdb
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\AcunMedyaCompositionAndOverloadingOdevi-1.genruntimeconfig.cache
+C:\Users\suley\source\repos\AcunMedyaCompositionAndOverloadingOdevi-1\AcunMedyaCompositionAndOverloadingOdevi-1\obj\Debug\net8.0\ref\AcunMedyaCompositionAndOverloadingOdevi-1.dll
