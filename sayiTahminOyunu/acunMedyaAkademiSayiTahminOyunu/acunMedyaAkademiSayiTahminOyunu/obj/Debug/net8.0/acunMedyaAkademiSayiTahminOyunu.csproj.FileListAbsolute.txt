@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\bin\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.exe
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\bin\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.deps.json
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\bin\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.runtimeconfig.json
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\bin\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\bin\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.pdb
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.AssemblyInfo.cs
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\refint\acunMedyaAkademiSayiTahminOyunu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.pdb
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\acunMedyaAkademiSayiTahminOyunu.genruntimeconfig.cache
+C:\Users\suley\source\repos\acunMedyaAkademiSayiTahminOyunu\acunMedyaAkademiSayiTahminOyunu\obj\Debug\net8.0\ref\acunMedyaAkademiSayiTahminOyunu.dll
