@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\bin\Debug\net8.0\acunMedyaAkademiDiziVeDongu.exe
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\bin\Debug\net8.0\acunMedyaAkademiDiziVeDongu.deps.json
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\bin\Debug\net8.0\acunMedyaAkademiDiziVeDongu.runtimeconfig.json
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\bin\Debug\net8.0\acunMedyaAkademiDiziVeDongu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\bin\Debug\net8.0\acunMedyaAkademiDiziVeDongu.pdb
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.AssemblyInfo.cs
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\refint\acunMedyaAkademiDiziVeDongu.dll
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.pdb
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\acunMedyaAkademiDiziVeDongu.genruntimeconfig.cache
+C:\Users\suley\source\repos\acunMedyaAkademiDiziVeDongu\acunMedyaAkademiDiziVeDongu\obj\Debug\net8.0\ref\acunMedyaAkademiDiziVeDongu.dll
