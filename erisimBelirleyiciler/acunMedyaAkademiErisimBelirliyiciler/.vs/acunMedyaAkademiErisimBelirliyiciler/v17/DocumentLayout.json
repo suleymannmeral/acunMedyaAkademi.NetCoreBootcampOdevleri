@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiErisimBelirliyiciler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A694CF9-BCC4-4FA9-A4AC-47C0A0329181}|acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler.csproj|c:\\users\\suley\\source\\repos\\acunmedyaakademierisimbelirliyiciler\\acunmedyaakademierisimbelirliyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A694CF9-BCC4-4FA9-A4AC-47C0A0329181}|acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler.csproj|solutionrelative:acunmedyaakademierisimbelirliyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A694CF9-BCC4-4FA9-A4AC-47C0A0329181}|acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler.csproj|c:\\users\\suley\\source\\repos\\acunmedyaakademierisimbelirliyiciler\\acunmedyaakademierisimbelirliyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A694CF9-BCC4-4FA9-A4AC-47C0A0329181}|acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler.csproj|solutionrelative:acunmedyaakademierisimbelirliyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler\\User.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiErisimBelirliyiciler\\User.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler\\User.cs",
+              "RelativeToolTip": "acunMedyaAkademiErisimBelirliyiciler\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:00:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler\\Program.cs",
+              "RelativeDocumentMoniker": "acunMedyaAkademiErisimBelirliyiciler\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\acunMedyaAkademiErisimBelirliyiciler\\acunMedyaAkademiErisimBelirliyiciler\\Program.cs",
+              "RelativeToolTip": "acunMedyaAkademiErisimBelirliyiciler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:59:48.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

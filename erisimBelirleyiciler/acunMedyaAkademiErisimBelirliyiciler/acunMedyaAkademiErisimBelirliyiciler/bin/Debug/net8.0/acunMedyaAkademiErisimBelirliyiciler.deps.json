@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "acunMedyaAkademiErisimBelirliyiciler/1.0.0": {
+        "runtime": {
+          "acunMedyaAkademiErisimBelirliyiciler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acunMedyaAkademiErisimBelirliyiciler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
