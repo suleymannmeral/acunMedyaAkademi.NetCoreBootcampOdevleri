@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\bin\Debug\net8.0\acunMedyaNameSpace.exe
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\bin\Debug\net8.0\acunMedyaNameSpace.deps.json
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\bin\Debug\net8.0\acunMedyaNameSpace.runtimeconfig.json
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\bin\Debug\net8.0\acunMedyaNameSpace.dll
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\bin\Debug\net8.0\acunMedyaNameSpace.pdb
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.AssemblyInfo.cs
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.dll
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\refint\acunMedyaNameSpace.dll
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.pdb
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\acunMedyaNameSpace.genruntimeconfig.cache
+C:\Users\suley\source\repos\acunMedyaNameSpace\acunMedyaNameSpace\obj\Debug\net8.0\ref\acunMedyaNameSpace.dll
