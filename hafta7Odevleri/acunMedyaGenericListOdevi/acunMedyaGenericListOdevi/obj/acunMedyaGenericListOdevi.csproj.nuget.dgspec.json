@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suley\\Desktop\\acunMedyaAkademi.NetCoreKursuOdevleri\\sayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu.csproj": {}
+    "C:\\Users\\suley\\source\\repos\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suley\\Desktop\\acunMedyaAkademi.NetCoreKursuOdevleri\\sayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu.csproj": {
+    "C:\\Users\\suley\\source\\repos\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\Desktop\\acunMedyaAkademi.NetCoreKursuOdevleri\\sayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu.csproj",
-        "projectName": "acunMedyaAkademiSayiTahminOyunu",
-        "projectPath": "C:\\Users\\suley\\Desktop\\acunMedyaAkademi.NetCoreKursuOdevleri\\sayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi.csproj",
+        "projectName": "acunMedyaGenericListOdevi",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\Desktop\\acunMedyaAkademi.NetCoreKursuOdevleri\\sayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\acunMedyaAkademiSayiTahminOyunu\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\acunMedyaGenericListOdevi\\acunMedyaGenericListOdevi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

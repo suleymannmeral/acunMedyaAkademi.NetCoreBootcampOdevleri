@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\bin\Debug\net8.0\acunMedyaGenericListOdevi.exe
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\bin\Debug\net8.0\acunMedyaGenericListOdevi.deps.json
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\bin\Debug\net8.0\acunMedyaGenericListOdevi.runtimeconfig.json
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\bin\Debug\net8.0\acunMedyaGenericListOdevi.dll
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\bin\Debug\net8.0\acunMedyaGenericListOdevi.pdb
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.AssemblyInfo.cs
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.dll
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\refint\acunMedyaGenericListOdevi.dll
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.pdb
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\acunMedyaGenericListOdevi.genruntimeconfig.cache
+C:\Users\suley\source\repos\acunMedyaGenericListOdevi\acunMedyaGenericListOdevi\obj\Debug\net8.0\ref\acunMedyaGenericListOdevi.dll
