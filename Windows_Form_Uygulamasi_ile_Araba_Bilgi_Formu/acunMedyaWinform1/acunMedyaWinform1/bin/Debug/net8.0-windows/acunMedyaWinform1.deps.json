@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "acunMedyaWinform1/1.0.0": {
+        "runtime": {
+          "acunMedyaWinform1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acunMedyaWinform1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
