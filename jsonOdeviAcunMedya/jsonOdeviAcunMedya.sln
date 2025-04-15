@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonOdeviAcunMedya", "jsonOdeviAcunMedya\jsonOdeviAcunMedya.csproj", "{13590980-07AB-484A-897B-0C2ECBACD3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13590980-07AB-484A-897B-0C2ECBACD3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13590980-07AB-484A-897B-0C2ECBACD3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13590980-07AB-484A-897B-0C2ECBACD3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13590980-07AB-484A-897B-0C2ECBACD3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09EB3F5E-5902-4E3F-BC87-E59119B406C8}
+	EndGlobalSection
+EndGlobal
