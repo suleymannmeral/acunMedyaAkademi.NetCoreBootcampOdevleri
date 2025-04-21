@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|c:\\users\\suley\\source\\repos\\dosyayapisiodeviacunmedyaakademi\\dosyayapisiodeviacunmedyaakademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyayapisiodeviacunmedyaakademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|c:\\users\\suley\\source\\repos\\dosyayapisiodeviacunmedyaakademi\\dosyayapisiodeviacunmedyaakademi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|c:\\users\\suley\\source\\repos\\dosyayapisiodeviacunmedyaakademi\\dosyayapisiodeviacunmedyaakademi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|c:\\users\\suley\\source\\repos\\dosyayapisiodeviacunmedyaakademi\\dosyayapisiodeviacunmedyaakademi\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|c:\\users\\suley\\source\\repos\\dosyayapisiodeviacunmedyaakademi\\dosyayapisiodeviacunmedyaakademi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A941CA-52E3-463A-9C30-E835608357FF}|dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi.csproj|solutionrelative:dosyayapisiodeviacunmedyaakademi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:15:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Models\\Payment.cs",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:12:13.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Models\\User.cs",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:12:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Services\\PaymentService.cs",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:11:35.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Services\\UserService.cs",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:11:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "RelativeDocumentMoniker": "dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\dosyaYapisiOdeviAcunMedyaAkademi\\dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs [Design]",
+              "RelativeToolTip": "dosyaYapisiOdeviAcunMedyaAkademi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:09:39.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

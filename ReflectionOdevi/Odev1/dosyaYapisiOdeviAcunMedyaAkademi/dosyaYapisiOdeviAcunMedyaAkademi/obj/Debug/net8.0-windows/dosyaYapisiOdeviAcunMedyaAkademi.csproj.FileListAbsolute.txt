@@ -1,0 +1,16 @@
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.Form1.resources
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.AssemblyInfo.cs
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\bin\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.exe
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\bin\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.deps.json
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\bin\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.runtimeconfig.json
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\bin\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.dll
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\bin\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.pdb
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.dll
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\refint\dosyaYapisiOdeviAcunMedyaAkademi.dll
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.pdb
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\dosyaYapisiOdeviAcunMedyaAkademi.genruntimeconfig.cache
+C:\Users\suley\source\repos\dosyaYapisiOdeviAcunMedyaAkademi\dosyaYapisiOdeviAcunMedyaAkademi\obj\Debug\net8.0-windows\ref\dosyaYapisiOdeviAcunMedyaAkademi.dll
