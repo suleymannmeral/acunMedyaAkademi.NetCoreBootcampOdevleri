@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "paymentSystemWithRefelction/1.0.0": {
+        "runtime": {
+          "paymentSystemWithRefelction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paymentSystemWithRefelction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\bin\Debug\net8.0-windows\paymentSystemWithRefelction.exe
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\bin\Debug\net8.0-windows\paymentSystemWithRefelction.deps.json
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\bin\Debug\net8.0-windows\paymentSystemWithRefelction.runtimeconfig.json
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\bin\Debug\net8.0-windows\paymentSystemWithRefelction.dll
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\bin\Debug\net8.0-windows\paymentSystemWithRefelction.pdb
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.Form1.resources
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.AssemblyInfo.cs
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.dll
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\refint\paymentSystemWithRefelction.dll
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.pdb
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\paymentSystemWithRefelction.genruntimeconfig.cache
+C:\Users\suley\source\repos\paymentSystemWithRefelction\paymentSystemWithRefelction\obj\Debug\net8.0-windows\ref\paymentSystemWithRefelction.dll
