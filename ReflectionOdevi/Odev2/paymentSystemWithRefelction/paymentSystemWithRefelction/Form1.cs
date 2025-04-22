@@ -13,7 +13,7 @@ namespace paymentSystemWithRefelction
         {
 
             var odemeYontemiTipleri = AppDomain.CurrentDomain.GetAssemblies()
-               .SelectMany(x => x.GetTypes())
+               .SelectMany(x => x.GetTypes()) // lambda fonskiyonu
                .Where(t => typeof(IOdemeYontemi).IsAssignableFrom(t) && !t.IsInterface && !t.IsAbstract)
                .ToList();  // assemblyleri tarıyoruz  
                            // t tipi IOdemeYontemi interfacinden türemişse ve interface değilse  ve soyut sınıf değilse 
@@ -33,17 +33,25 @@ namespace paymentSystemWithRefelction
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int amount = int.Parse(txtAmount.Text);   // girilen tutarı al ve integer değere çevir
-            if (cmbPaymentType.SelectedItem is Type selectedType)  // seçilen değer bir type ise selectedType değişekine ata
+            if (txtAmount.Text == "")
+                MessageBox.Show("Tutar girişi yapmadınız");
+            else
             {
-                // interfaceden erişim sağladık 
-                IOdemeYontemi odemeYontemi = (IOdemeYontemi)Activator.CreateInstance(selectedType);
+                int amount = int.Parse(txtAmount.Text);   // girilen tutarı al ve integer değere çevir
+                if (cmbPaymentType.SelectedItem is Type selectedType)  // seçilen değer bir type ise selectedType değişekine ata
+                {
+                    // interfaceden erişim sağladık seçitiğimiz typten bir örnek oluşturduk
+                    IOdemeYontemi odemeYontemi = (IOdemeYontemi)Activator.CreateInstance(selectedType);
 
-                //labela yazdır
-                label3.Text = $"Tutar: {odemeYontemi?.Ode(amount):C2}"; 
+                    //labela yazdır
+                    label3.Text = $"Tutar: {odemeYontemi?.Ode(amount):C2}";
 
 
+                }
             }
+         
         }
     }
 }
+
+// comment linelar kodun okunabilirligini azaltmış görünebilir. Bu kod ogrenme amacli yazilmistir.
