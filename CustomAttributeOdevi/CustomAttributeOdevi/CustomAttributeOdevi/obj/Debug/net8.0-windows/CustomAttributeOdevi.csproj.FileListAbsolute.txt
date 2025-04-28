@@ -1,0 +1,16 @@
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\bin\Debug\net8.0-windows\CustomAttributeOdevi.exe
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\bin\Debug\net8.0-windows\CustomAttributeOdevi.deps.json
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\bin\Debug\net8.0-windows\CustomAttributeOdevi.runtimeconfig.json
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\bin\Debug\net8.0-windows\CustomAttributeOdevi.dll
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\bin\Debug\net8.0-windows\CustomAttributeOdevi.pdb
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.Form1.resources
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.AssemblyInfo.cs
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.dll
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\refint\CustomAttributeOdevi.dll
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.pdb
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\CustomAttributeOdevi.genruntimeconfig.cache
+C:\Users\suley\source\repos\CustomAttributeOdevi\CustomAttributeOdevi\obj\Debug\net8.0-windows\ref\CustomAttributeOdevi.dll

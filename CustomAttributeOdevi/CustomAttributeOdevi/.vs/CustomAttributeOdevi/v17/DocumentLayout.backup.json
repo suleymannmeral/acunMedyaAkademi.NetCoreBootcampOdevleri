@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\customattributeodevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\requiredfieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\requiredfieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\validationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\validationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|c:\\users\\suley\\source\\repos\\customattributeodevi\\customattributeodevi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515AE2A8-B781-43BF-A314-AFECDFC7EFE3}|CustomAttributeOdevi\\CustomAttributeOdevi.csproj|solutionrelative:customattributeodevi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:11:59.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationControl.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\ValidationControl.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\ValidationControl.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\ValidationControl.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\ValidationControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:02:56.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.cs [Design]",
+              "RelativeToolTip": "CustomAttributeOdevi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:34:24.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Program.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:10:20.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Form1.Designer.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:11:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequiredFieldAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\RequiredFieldAttribute.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\RequiredFieldAttribute.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\RequiredFieldAttribute.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\RequiredFieldAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:02:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "CustomAttributeOdevi\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CustomAttributeOdevi\\CustomAttributeOdevi\\Ogrenci.cs",
+              "RelativeToolTip": "CustomAttributeOdevi\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:01:20.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
